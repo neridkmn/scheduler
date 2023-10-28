@@ -8,6 +8,7 @@
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-hooks-testing-library": "^0.6.0",
     "react-scripts": "3.4.4"
   },
   "scripts": {
@@ -45,8 +46,8 @@
     "cypress": "^3.4.0",
     "jest-websocket-mock": "^1.5.0",
     "mock-socket": "^8.0.5",
-    "prop-types": "^15.7.2",
-    "react-test-renderer": "^16.9.0",
+    "prop-types": "^15.8.1",
+    "react-test-renderer": "^16.14.0",
     "sass": "^1.53.0"
   },
   "proxy": "http://localhost:8001",
